@@ -7,6 +7,7 @@ https://github.com/sidpalas/mern-docker-compose/tree/master/client
 npm install
 
 docker build -t react-app .
+
 docker-compose up
 
 Configured with:
